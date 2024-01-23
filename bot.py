@@ -105,4 +105,4 @@ class Bot(Client):
 
 
 app = Bot()
-app.run()
+app = run()
