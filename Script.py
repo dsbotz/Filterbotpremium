@@ -295,7 +295,7 @@ Name - {}
     CUSTOM_FILE_CAPTION = """<a href="https://t.me/public1656"><b>{file_name}</b></a>
 
 ════════※ ·❆· ※════════
-<a href="https://t.me/+Y0wtRvn4zxdiYzBl"><b>ㅤㅤ▫️Mᴏᴠɪᴇ Rᴇǫ Gʀᴏᴜᴘ▫️</b></a>
+<a href="https://t.me/+rwxXiqygEVNiZmY9"><b>ㅤㅤ▫️Mᴏᴠɪᴇ Rᴇǫ Gʀᴏᴜᴘ▫️</b></a>
 ════════※ ·❆· ※════════"""
 
     RESTART_TXT = """
