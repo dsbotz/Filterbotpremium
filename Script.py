@@ -10,7 +10,7 @@ class script(object):
 
     ABOUT_TXT = """<b>✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
 ✯ ᴍʏ ʟᴏᴠᴇ: <a href=https://t.me/MrLatestMoviesbot>ᴍʏ ᴏᴡɴᴇʀ🥰</a>
-✯ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ: <a href=https://t.me/public1656>𝙏𝙝𝙚 𝙃𝙖𝙥𝙥𝙮 𝙃𝙤𝙪𝙧™</a>
+✯ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ: <a href=https://t.me/+sUcFfw_7XOM2NGI1>𝙏𝙝𝙚 𝙃𝙖𝙥𝙥𝙮 𝙃𝙤𝙪𝙧™</a>
 ✯ ᴍʏ ᴏᴡɴᴇʀ: <a href=https://t.me/MrLatestMoviesbot>𝘼𝙨𝙝 𝙆𝙚𝙩𝙘𝙝𝙪𝙢</a>
 ✯ ʟɪʙʀᴀʀʏ: ɴᴏ ɪᴅᴇᴀ
 ✯ ʟᴀɴɢᴜᴀɢᴇ: ʜɪɴᴅɪ 🇮🇳
@@ -292,10 +292,10 @@ Name - {}
 ©{message.chat.title}</b>
 """
 
-    CUSTOM_FILE_CAPTION = """<a href="https://t.me/public1656"><b>{file_name}</b></a>
+    CUSTOM_FILE_CAPTION = """<a href="https://t.me/+sUcFfw_7XOM2NGI1"><b>{file_name}</b></a>
 
 ════════※ ·❆· ※════════
-<a href="https://t.me/+rwxXiqygEVNiZmY9"><b>ㅤㅤ▫️Mᴏᴠɪᴇ Rᴇǫ Gʀᴏᴜᴘ▫️</b></a>
+<a href="https://t.me/+3w9JlpDFFJ85MmI9"><b>ㅤㅤ▫️Mᴏᴠɪᴇ Rᴇǫ Gʀᴏᴜᴘ▫️</b></a>
 ════════※ ·❆· ※════════"""
 
     RESTART_TXT = """
